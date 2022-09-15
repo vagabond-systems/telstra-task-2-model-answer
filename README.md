@@ -1,2 +1,2 @@
-# telstra-task-2-model-answer
-Model answer for task 2 of the Telstra backend Forage program
+# Task 2 Model Answer :koala:
+Model answer for task 1 of the Telstra backend Forage program
